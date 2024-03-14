@@ -1,0 +1,3 @@
+this is a bash scriptinh
+you use an interperter to read the file
+examples of interpreters are bash sh csk 
